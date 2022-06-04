@@ -1,0 +1,41 @@
+
+e	java:S117H"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(âÁëh
+2
+java:S1643A"Use a StringBuilder instead.(øÃú„
+0
+java:S1220""Move this file to a named package.
+E
+java:S1197"*Move the array designators [] to the type.(’â¢¹ûÿÿÿÿ
+E
+java:S1197"*Move the array designators [] to the type.(·¢å¯üÿÿÿÿ
+V	java:S125"<This block of commented-out lines of code should be removed.(ç»é”ıÿÿÿÿ
+@
+java:S1197"*Move the array designators [] to the type.(áÕÏ¿
+]
+java:S1659"BDeclare "index" and all following declarations on a separate line.(Î¦õúÿÿÿÿ
+E
+java:S1197$"*Move the array designators [] to the type.(–¿ŠÁüÿÿÿÿ
+X
+java:S1659%"BDeclare "index" and all following declarations on a separate line.(»¾›ğ
+T
+java:S18548"9Remove this useless assignment to local variable "monto".(«èàüÿÿÿÿ
+E
+java:S11976"*Move the array designators [] to the type.(£Ñºúÿÿÿÿ
+:
+java:S1659H"%Declare "tamaÃ±o" on a separate line.(âÁëh
+b
+java:S1659J"GDeclare "menorVenta" and all following declarations on a separate line.(òÄá˜ÿÿÿÿÿ
+@
+java:S1197I"*Move the array designators [] to the type.(ã„Ü¿
+S	java:S106N"9Replace this use of System.out or System.err by a logger.(¾ï€†ıÿÿÿÿ
+S	java:S106Q"9Replace this use of System.out or System.err by a logger.(ã­Ùºøÿÿÿÿ
+S	java:S106R"9Replace this use of System.out or System.err by a logger.(äı°Œùÿÿÿÿ
+S	java:S106S"9Replace this use of System.out or System.err by a logger.(ã­Ùºøÿÿÿÿ
+N	java:S106T"9Replace this use of System.out or System.err by a logger.(´Ç¹¤
+S	java:S106W"9Replace this use of System.out or System.err by a logger.(º½¦¼ıÿÿÿÿ
+N	java:S106a"9Replace this use of System.out or System.err by a logger.(šõÂ
+S	java:S106b"9Replace this use of System.out or System.err by a logger.(‹ŞÀ‡ıÿÿÿÿ
+N	java:S106c"9Replace this use of System.out or System.err by a logger.(”û«£
+N	java:S106d"9Replace this use of System.out or System.err by a logger.(æ±Ë
+H
+java:S1128"-Remove this unused import 'java.util.Arrays'.(î–˜Éüÿÿÿÿ
